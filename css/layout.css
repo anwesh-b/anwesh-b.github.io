@@ -1,0 +1,79 @@
+body{
+    margin: 0 auto;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: rgba(100, 100, 100, 0.5);
+}
+
+.nav-bar{
+    background-color: red;
+    margin: 0 auto;
+}
+
+.main-section{
+    background-color: green;
+}
+
+.main-section-wrapper{
+    width: 80%;
+    margin: 15% auto;
+    background-color: pink;
+    text-align: center;
+}
+
+.main-section-wrapper  .txt-head{
+    margin: 15px auto;
+}
+
+.main-section-wrapper .icon-container{
+    margin: 20px auto;
+}
+
+.main-section-wrapper .rounded-button{
+    display: block;
+    background-color: grey;
+    border-radius: 25px;
+    width: 100px;
+    padding: 10px 0;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    color: white;
+}
+
+.about-me{
+    background-color: red;
+    padding: 8% 0;
+}
+
+.about-me .about-left{
+    float: left;
+    width: 35%;
+    background-color: rgba(20, 250, 100, 0.5);
+}
+
+.about-me .about-right{
+    float: right;
+    width: 60%;
+    background-color: rgba(250, 100, 20, 0.5);
+    padding: 0 0 0 5%;
+}
+
+.about-me .about-right .txt-vsm{
+    margin: 20px 0 10px 0;
+}
+
+.bar-section{
+    background-color: green;
+}
+
+.footers{
+    background-color: red;
+}
